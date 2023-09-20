@@ -1,2 +1,1 @@
-# Extensions-Tab-Quick-Access
-Extensions Tab Quick Access
+credits to :https://chrome.google.com/webstore/detail/downloads/jfchnphgogjhineanplmfkofljiagjfb

@@ -1,0 +1,22 @@
+{
+	"update_url": "https://clients2.google.com/service/update2/crx",
+	"manifest_version" : 2,
+	"name": "Extensions Tab Quick Access",
+	"description": "Quick access button to the extensions page",
+	"version": "1.0.0", 
+	"icons": { 
+		"16": "16.png",
+		"48": "48.png",
+		"128": "128.png"
+   },
+   "permissions" : ["tabs"],
+   "browser_action": {
+		"default_icon" : {
+			"19" : "19.png"
+		}
+   },
+   "background": {
+		"persistent" : true,
+		"page" : "background.html"
+   }   
+}
